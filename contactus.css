@@ -1,0 +1,43 @@
+.contactus{
+	background-color: white;
+	margin-top: 2px;
+	padding-bottom: 250px;
+	padding-right: 80px;
+	float: left;
+}
+#location{
+	background-color:#DCDCDC;
+	margin-top: 2px;
+	padding-bottom: 500px;
+	padding-right: 800px;
+	float: left;
+}
+.contain{
+	margin-top: 10px;
+}
+.map-container{
+overflow:hidden;
+/*padding-bottom:2%;*/
+position:relative;
+height:0;
+}
+.map-container iframe{
+padding-top: 80px;
+left:0;
+top:0;
+height:100%;
+width:100%;
+position:absolute;
+}
+#about{
+	color: #800000;
+	background-color: rgb(25,25,112);
+	padding-top:10px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+}
+.icon{
+	width: 12px;
+	height: 12px;
+
+}
